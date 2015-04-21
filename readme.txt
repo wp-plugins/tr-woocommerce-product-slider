@@ -3,7 +3,7 @@ Contributors: BestThemeRoad
 Author URI: https://profiles.wordpress.org/bestthemeroad
 Author: Theme Road
 Donate link: 
-Tags:  Testimonial, testimonial slider, clients Feedback, clients Testimonial, testimonial slider,clients-portfolio,clients-plugin,testimonial-plugin,client quotes, portfolio, projects, recommendations, references, reviews, testimonials.
+Tags:  carousel, horizontal posts slider, horizontal product carousel, most selling products, multiple product slider, on sale product carousel, on-sale, posts content slider, posts slider, product, product carousel, product content slider, product contents carousel, product rotator, product slider, products slider, related product carousel, related product slider, responsive product slider, top rated products, up sells, vertical product carousel, woo slider, woocommerce, woocommerce product carousel, woocommerce product slider, WooCommerce Products, woocommerce products slider, woocommerce slider
 Requires at least: 3.5
 Tested up to: 4.1
 Stable tag: 1.0

@@ -25,10 +25,8 @@ Plugin Features
 * Just use this shortcode [tr-latest] where you want show Latest Product.
 * Just use this shortcode [tr-feature] where you want show Features Product.
 
- What You Get From This Current version 2.0.0
- 
- * Your clients-feedback changes automatically that now autoplay is true.
-   SO, Enjoy more the plugins.
+### Installation guide:
+[youtube https://www.youtube.com/watch?v=MbTkcr94z5s]
 
  
 

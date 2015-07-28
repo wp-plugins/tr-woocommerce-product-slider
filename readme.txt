@@ -31,7 +31,6 @@ Plugin Features
  
 
 
-
 * [Our Premium Plugins](http://themeroad.net/154-2/)
  * [TR WP Custom Login](http://themeroad.net/Products/wp-custom-login-page/)
  * [TR Advanced Price Plan Pro](http://themeroad.net/Products/tr-price-plan-pro/)
@@ -41,7 +40,7 @@ Plugin Features
  * [TR Filterable Portfolio Pro](http://themeroad.net/Products/204/)
  * [TR Nice Accordion Pro](http://themeroad.net/Products/tr-premium-accordion-pro/)
 
-Check details:
+
 
 == Installation ==
 

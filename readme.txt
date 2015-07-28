@@ -32,17 +32,16 @@ Plugin Features
 
 
 
-* [Our Premium Plugins](http://themeroad.net/)
- * [TR WP Custom Login](http://themeroad.net/product/tr-custom-login/)
- * [TR Advanced Price Plan Pro](http://themeroad.net/product/tr-advanced-price-plan-pro/)
- * [TR WooCommerce Image Zoom PRO](http://themeroad.net/product/woocommerce-image-zoom-pro/)
- * [TR Carousel Slider Pro](http://themeroad.net/product/tr-carousel-slider-pro/)
- * [TR Logo Slider Pro](http://themeroad.net/product/tr-logo-slider-pro/)
- * [TR Filterable Portfolio Pro](http://themeroad.net/product/tr-filterable-portfolio-pro/)
- * [TR Nice Accordion Pro](http://themeroad.net/product/tr-nice-accordion/)
-  
-  
+* [Our Premium Plugins](http://themeroad.net/154-2/)
+ * [TR WP Custom Login](http://themeroad.net/Products/wp-custom-login-page/)
+ * [TR Advanced Price Plan Pro](http://themeroad.net/Products/tr-price-plan-pro/)
+ * [TR WooCommerce Image Zoom PRO](http://themeroad.net/Products/tr-woocommerce-image-zoom-pro/)
+ * [TR Carousel Slider Pro](http://themeroad.net/Products/tr-carousel-slider-pro-4/)
+ * [TR Logo Slider Pro](http://themeroad.net/Products/tr-logo-slider-pro/)
+ * [TR Filterable Portfolio Pro](http://themeroad.net/Products/204/)
+ * [TR Nice Accordion Pro](http://themeroad.net/Products/tr-premium-accordion-pro/)
 
+Check details:
 
 == Installation ==
 
